@@ -1,4 +1,4 @@
-#!"/Users/rashid/Desktop/rash/1WORKSPACE/1MASTERS/Biologically Inspired Computation/venv/bin/python"
+#!/Users/rashid/Desktop/rash/1MASTERS/DataMining/CourseWork/untitled1/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re
